@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fca9219f-a8ac-4538-adf8-93ac39753af2" name="Changes" comment="Created classes, and services, remains to optimize code.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Execution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Hall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/ExecutionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +18,7 @@
       <list>
         <option value="Class" />
         <option value="Enum" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,6 +42,9 @@
     &quot;accountId&quot;: &quot;84b30ce8-dd29-4e39-a3e9-01bc0a76b162&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -61,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ExecutionService.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "develop",
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730232953273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created classes, and services, remains to optimize code.">
+      <option name="closed" value="true" />
+      <created>1730317377970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730317377970</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
