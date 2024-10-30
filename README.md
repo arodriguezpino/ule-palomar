@@ -14,6 +14,9 @@ En la segunda ejecucción se ejecuta una sola vez con 366 personas para ver cuan
 En el resto de ejecucciones se junta a 366 estudiantes en una sala, pudiendo comprobar que la tendencia es de repetir aproximadamente entre 90 y 100 dias donde 1 o mas personas cumplen años.
 Para bajar esta estadística, tendremos que rozar los 30 estudiantes para comenzar a ver los 0 de forma mas continuada.
 
+![image](https://github.com/user-attachments/assets/a4603bde-2584-4534-9094-5fe26ba75bc3)
+
+
 Ejemplo de ejecucción :
 More Than 12
 
